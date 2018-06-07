@@ -1,2 +1,0 @@
-# wwwquiz
-quiz für www
